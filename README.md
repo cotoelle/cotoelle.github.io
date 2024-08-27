@@ -1,2 +1,2 @@
-# cotoelle.github.io
+# _config.yml
 omge zkibsidsi toalette
